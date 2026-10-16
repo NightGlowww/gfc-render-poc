@@ -1,0 +1,2 @@
+= Doc
+include::https://raw.githubusercontent.com/NightGlowww/gfc-render-poc/main/incme.adoc[]

