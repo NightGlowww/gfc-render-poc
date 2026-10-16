@@ -1,0 +1,6 @@
+= Doc
+
+Hello paragraph here.
+include::https://github.com/NightGlowww/gfc-render-poc/blob/main/incme.adoc[]
+
+Tail text.
