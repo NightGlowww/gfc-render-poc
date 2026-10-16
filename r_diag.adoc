@@ -1,0 +1,7 @@
+= Test
+[plantuml]
+----
+@startuml
+Alice -> Bob: hi
+@enduml
+----
