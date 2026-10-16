@@ -1,0 +1,4 @@
+[graphviz]
+----
+digraph { a -> b }
+----
