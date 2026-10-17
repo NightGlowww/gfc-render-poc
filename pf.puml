@@ -1,0 +1,6 @@
+@startuml
+!function f
+  return "hello"
+!endfunction
+Alice->Bob
+@enduml
